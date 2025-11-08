@@ -17,3 +17,6 @@ python ./HypedRabbit.py url --timeout 3600
 
 <img width="2187" height="811" alt="image" src="https://github.com/user-attachments/assets/850b077f-91fc-45b0-8fe6-62c737243042" />
 
+TODO (probably not neccesary)
+- a burpsuite extension
+- add the frontend, i am just lazy to upload it honestly, if you need it ping me
