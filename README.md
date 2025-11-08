@@ -13,4 +13,7 @@ python ./HypedRabbit.py url --timeout 3600
 - interact with the broswer then it dumps the IV, SECRET in plain text.
 - increase the browser duration if you'll be testing the application extensively.
 
-- <img width="1697" height="462" alt="image" src="https://github.com/user-attachments/assets/23e966a4-1cff-488b-827c-5c082e47c17a" />
+<img width="1147" height="534" alt="image" src="https://github.com/user-attachments/assets/6bc928f7-59c7-44af-b430-65bc1e81cb1e" />
+
+<img width="2187" height="811" alt="image" src="https://github.com/user-attachments/assets/850b077f-91fc-45b0-8fe6-62c737243042" />
+
